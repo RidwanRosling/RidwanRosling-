@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanrosling" alt="ridwanrosling" /></a> </p>
 
-- I’m currently learning **React,NodeSs**
+- I’m currently learning **React,NodeJs**
 
 - What stack I use **React**
 
