@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridwan</h1>
+<h1 align="center">Hi 👋</h1>
 
 - I’m currently learning **React,NodeJs and Phyton**
 
