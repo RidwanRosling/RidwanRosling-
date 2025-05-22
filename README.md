@@ -13,4 +13,4 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/RidwanRosling/RidwanRosling/blob/master/dist/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/RidwanRosling/RidwanRosling/output/github-contribution-grid-snake.svg" />
