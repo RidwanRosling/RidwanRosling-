@@ -10,3 +10,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwanrosling&show_icons=true&locale=en&layout=compact" alt="ridwanrosling" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwanrosling&show_icons=true&locale=en" alt="ridwanrosling" /></p>
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/RidwanRosling/RidwanRosling/blob/master/dist/github-contribution-grid-snake.svg)
